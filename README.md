@@ -1,7 +1,7 @@
 # Amazon Clone (Front‑End)
 This is my very first front‑end project: a simple Amazon homepage clone built entirely with HTML and CSS.
 
-![Image Alt](https://github.com/Sabbir-dev07/Amazone_Landing-page/blob/main/Amazone%20Landing%20page%20clone.png?raw=true0
+![image](https://github.com/user-attachments/assets/ccd2fc3b-7dba-4878-8c84-5e139593a7dd)
 
 ## Project Overview:
 A static clone of the Amazon homepage, created to practice front‑end development basics: layout, styling, and working with Flexbox.
