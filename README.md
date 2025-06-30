@@ -1,6 +1,8 @@
 # Amazon Clone (Front‑End)
 This is my very first front‑end project: a simple Amazon homepage clone built entirely with HTML and CSS.
 
+
+
 ![image](https://github.com/user-attachments/assets/ccd2fc3b-7dba-4878-8c84-5e139593a7dd)
 
 ## Project Overview:
